@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tabs recent posts vs recent comments\n"
+"POT-Creation-Date: 2016-11-17 21:06+0800\n"
+"PO-Revision-Date: 2016-11-17 21:06+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tabs-recent-posts-vs-recent-comments.php:110
+msgid "Recent posts tab title:"
+msgstr "Najnowsze Tytuł Zakładka postów:"
+
+#: ../tabs-recent-posts-vs-recent-comments.php:112
+msgid "Number of recent posts to show:"
+msgstr "Liczba wpisów do pokazania:"
+
+#: ../tabs-recent-posts-vs-recent-comments.php:114
+msgid "Recent comments tab title:"
+msgstr "Najnowsze Tytuł zakładka komentarze:"
+
+#: ../tabs-recent-posts-vs-recent-comments.php:116
+msgid "Number of recent comments to show:"
+msgstr "Liczba komentarzy do pokazania:"
+
+#: ../tabs-recent-posts-vs-recent-comments.php:118
+msgid "Comments excerpt length:"
+msgstr "Komentarze autor adres e-mail"
+
+#: ../tabs-recent-posts-vs-recent-comments.php:124
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../tabs-recent-posts-vs-recent-comments.php:127
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../tabs-recent-posts-vs-recent-comments.php:178
+#: ../tabs-recent-posts-vs-recent-comments.php:179
+#: ../tabs-recent-posts-vs-recent-comments.php:183
+#: ../tabs-recent-posts-vs-recent-comments.php:184
+msgid "Recent posts vs Recent comments"
+msgstr "Ostatnie posty vs Ostatnie komentarze"
